@@ -1,0 +1,6 @@
+{
+    "prod": {
+        "httpgraphqluri": "https://rental-z.hasura.app/v1/graphql",
+        "httpgraphqlsecret": "12345678"
+    }
+}
